@@ -272,3 +272,11 @@ button:hover, .form button:active, .form button:focus {
   padding: 3px;
   align-items: center;
 }
+.github{
+  margin-top: 3px;
+  font-size: 13px;
+  font-weight: bold;
+  color: rgb(140 140 141);
+  display: flex;
+  justify-content: center;
+}
